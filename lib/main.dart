@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_bandung_apps/pages/main_screen.dart';
 import 'pages/main_screen.dart';
 
 void main() => runApp(const MyApp());
