@@ -9,6 +9,6 @@
 ### - Website
 | Home        |
 |--------------|
-| <img src="https://i.postimg.cc/xjzpwGyR/main-web.png" /> |
+| <img src="https://i.postimg.cc/xCkLBShd/main-web-min.png" width="500" /> |
 | Detail    |
-| <img src="https://i.postimg.cc/rmdZF56q/info-web.png" />      |
+| <img src="https://i.postimg.cc/R0pcP0P8/info-web-min.png" width="500" />      |
