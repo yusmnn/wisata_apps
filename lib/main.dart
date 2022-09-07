@@ -9,7 +9,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Wisata Bandung",
+      debugShowCheckedModeBanner: false,
+      title: "Wisata Apps",
       theme: ThemeData(),
       home: const MainScreen(),
     );
