@@ -1,16 +1,17 @@
-# wisata_bandung_apps
+# wisata_apps
+- Responsive Mobile
+- Responsive Web
 
-A new Flutter project.
+## ScreenShot
 
-## Getting Started
+### - Mobile
+| Home        | Detail    |
+|--------------|-----------|
+| <img src="https://i.postimg.cc/kGKjW9XZ/home-mobile.png" width="300"/> | <img src="https://i.postimg.cc/ZKzs49wh/info-mobile.png" width="300"/>      |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### - Website
+| Home        |
+|--------------|
+| <img src="https://i.postimg.cc/xCkLBShd/main-web-min.png" width="500" /> |
+| Detail    |
+| <img src="https://i.postimg.cc/R0pcP0P8/info-web-min.png" width="500" />      |
